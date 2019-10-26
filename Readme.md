@@ -10,3 +10,4 @@ The code in this repository aims to implement the learning and inference procedu
 	- Update the weights based on stochastic gradient descent
 	- Inference on some dataset (Netflix - filtered down to 2? )
 
+[1]: Salakhutdinov, Mnih, Hinton, _Restricted Boltzmann Machines for Collaborative Filtering_ [pdf](https://www.cs.toronto.edu/~rsalakhu/papers/rbmcf.pdf)
